@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "sd-0x-block13-project-movie-card-library-stateful",
+    "name": "tryber/sd-04-block12-project-movie-card-library-stateful",
     "description": "Projeto de Movie Cards Library Stateful",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 17:10:00",
+    "deadline": "2020-06-11 17:10:00",
     "requirements": [
       {
         "description": "Crie um componente chamado `SearchBar`",
